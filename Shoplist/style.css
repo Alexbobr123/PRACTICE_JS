@@ -1,0 +1,74 @@
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
+	color: rgb(0, 0, 0);
+}
+
+#parent {
+	margin: 0 auto;
+	width: 500px;
+}
+
+#form {
+	display: flex;
+	margin-bottom: 15px;
+}
+#form input {
+	padding: 8px;
+	width: 24%;
+	margin: 0 0.5% 10px 0.5%;
+}
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 7px;
+	color: rgb(0, 0, 0);
+}
+
+#table {
+	width: 100%;
+	margin-bottom: 10px;
+}
+#table td, #table th {
+	padding: 8px;
+	text-align: center;
+	border: 1px solid black;
+}
+#table td.remove {
+	color: rgb(0, 0, 0);
+	cursor: pointer;
+	text-decoration: underline;
+}
+#td.remove:hover {
+	text-decoration: blueviolet;
+}
+
+#result {
+	text-align: right;
+	margin-right: 10px;
+}
+
+td {
+    background-color: rgba(55, 255, 0, 0.322);
+}
+
+th {
+    background-color: rgba(49, 159, 37, 0.619);
+}
+
+input {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgba(160, 241, 150, 0.447);
+}
+
+#add {
+	text-decoration: underline;
+	cursor: pointer;
+}

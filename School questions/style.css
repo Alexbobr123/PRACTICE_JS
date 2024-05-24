@@ -1,0 +1,35 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+.right {
+    color: rgb(21, 255, 4);
+}
+.wrong {
+    color: rgb(255, 0, 0);
+}
+
+body {
+    
+    background-color: rgba(71, 205, 74, 0.383);
+}
+
+#igla {
+    background-color: rgba(37, 76, 13, 0.271);
+}
+
+#test {
+    padding-left: 8%;
+    padding-top: -2px;
+    font-size: large;
+}
+
+#button {
+    margin-left: 8%;
+    margin-bottom: 2%;
+}
+
+h2 {
+    padding-left: 8%;
+    padding-top: 1%
+}
